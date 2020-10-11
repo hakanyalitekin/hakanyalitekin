@@ -51,6 +51,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <!-- BLOG-POST-LIST:END -->
 
 
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=hakanyalitekin&show_icons=true&hide_border=true" />
+<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakanyalitekin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 <details>
 	  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
@@ -81,11 +83,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <br />
 </details>
 
-
-⚡ **Github Stats**
-
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=hakanyalitekin&show_icons=true&hide_border=true" />
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakanyalitekin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 
 

@@ -95,4 +95,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [C# ile PDF Oluşturma (Örnek fatura uygulaması)](https://medium.com/@hakanyalitekin/c-ile-pdf-olu%C5%9Fturma-%C3%B6rnek-fatura-uygulamas%C4%B1-42ff954e9d84?source=rss-c5995f0cd21------2)
+- [.Net Framework için Swagger ile FileUpload](https://medium.com/@hakanyalitekin/net-framework-i%C3%A7in-swagger-ile-fileupload-c2fc186a3290?source=rss-c5995f0cd21------2)
+- [.Net Framework için Swagger ve JWT Authentication](https://medium.com/@hakanyalitekin/net-framework-i%C3%A7in-swagger-ve-jwt-authentication-f8928cc5db0b?source=rss-c5995f0cd21------2)
+- [LINQ Nedir?](https://medium.com/@hakanyalitekin/linq-nedir-f55957d5bf52?source=rss-c5995f0cd21------2)
 <!-- BLOG-POST-LIST:END -->

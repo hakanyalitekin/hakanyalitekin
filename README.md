@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Hakan Yalıtekin](https://linkedin.com/in/hakanyalitekin)
+## Hey <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm [Hakan Yalıtekin](https://linkedin.com/in/hakanyalitekin)
 
 [![Linkedin Badge](https://img.shields.io/badge/-hakanyalitekin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hakanyalitekin)
 [![Twitter Badge](https://img.shields.io/badge/-hakanyalitekin-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/hakanyalitekin)
@@ -42,6 +42,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=visualstudio&logoColor=%23F7DF1E"/>
 
+📕 **Latest Medium Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ### Projects and Dev Stuffs:
@@ -52,10 +55,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakanyalitekin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
  
-  <summary><b> 📝 My Last Medium:</b></summary>
-  
-[![Hakan Yalitekin Medium](https://github-readme-medium.vercel.app/?username=hakanyalitekin)](https://medium.com/@hakanyalitekin)
-
 <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
@@ -86,17 +85,10 @@ I'm a passionate learner who's always willing to learn and work across technolog
 </details>
 
 
-<div align="center">
 
+
+<div align="center">
+	
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [C# ile PDF Oluşturma (Örnek fatura uygulaması)](https://medium.com/@hakanyalitekin/c-ile-pdf-olu%C5%9Fturma-%C3%B6rnek-fatura-uygulamas%C4%B1-42ff954e9d84?source=rss-c5995f0cd21------2)
-- [.Net Framework için Swagger ile FileUpload](https://medium.com/@hakanyalitekin/net-framework-i%C3%A7in-swagger-ile-fileupload-c2fc186a3290?source=rss-c5995f0cd21------2)
-- [.Net Framework için Swagger ve JWT Authentication](https://medium.com/@hakanyalitekin/net-framework-i%C3%A7in-swagger-ve-jwt-authentication-f8928cc5db0b?source=rss-c5995f0cd21------2)
-- [LINQ Nedir?](https://medium.com/@hakanyalitekin/linq-nedir-f55957d5bf52?source=rss-c5995f0cd21------2)
-<!-- BLOG-POST-LIST:END -->

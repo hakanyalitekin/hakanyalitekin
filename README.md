@@ -59,9 +59,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
   <br />
   <table>
     <thead align="center">
@@ -94,3 +91,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

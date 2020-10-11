@@ -52,8 +52,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 
 ### Projects and Dev Stuffs:
-
-  <summary><b>⚡ Github Stats</b></summary>
+<b>⚡ Github Stats</b>
 
 <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=hakanyalitekin&show_icons=true&hide_border=true" />
 <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakanyalitekin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>

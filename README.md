@@ -44,7 +44,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 📕 **Latest Medium Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [WSL 2 Linux ve Docker üzerine bazı notlarım](https://medium.com/@hakanyalitekin/wsl-2-linux-ve-docker-%C3%BCzerine-baz%C4%B1-notlar%C4%B1m-73daed8aaeff?source=rss-c5995f0cd21------2)
+- [WSL 2 Linux ve Docker özelinde bir kaç sorun ve çözümü](https://medium.com/@hakanyalitekin/wsl-2-linux-ve-docker-%C3%BCzerine-baz%C4%B1-notlar%C4%B1m-73daed8aaeff?source=rss-c5995f0cd21------2)
 - [Medium’daki yazıları Dev.to ile senkronize etmek](https://medium.com/@hakanyalitekin/mediumdaki-yaz%C4%B1lar%C4%B1-dev-to-ile-senkronize-etmek-fc1bf4fe5ca1?source=rss-c5995f0cd21------2)
 - [Local NuGet Server Kurulumu ve Kullanımı](https://medium.com/@hakanyalitekin/local-nuget-server-kurulumu-ve-kullan%C4%B1m%C4%B1-d0fd4187c55?source=rss-c5995f0cd21------2)
 - [C# ile PDF Oluşturma (Örnek fatura uygulaması)](https://medium.com/@hakanyalitekin/c-ile-pdf-olu%C5%9Fturma-%C3%B6rnek-fatura-uygulamas%C4%B1-42ff954e9d84?source=rss-c5995f0cd21------2)

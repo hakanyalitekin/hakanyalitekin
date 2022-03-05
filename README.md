@@ -9,7 +9,7 @@
 
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on Flutter 🤓.
 
-[![](https://gitwar.herokuapp.com/badge?username=hakanyalitekin&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+[![](https://gitwar.herokuapp.com/badge?username=hakanyalitekin&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](#)
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
@@ -18,13 +18,14 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 🛠 &nbsp; I’m currently working with C#, .Net Core, MongoDb, <br />Docker, AWS, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hakanyalitekin).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/hakanyalitekin/hakanyalitekin/issues/2)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/hakanyalitekin/hakanyalitekin/issues)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: hakanyalitekin@gmail.com
 - 📝 &nbsp; Checkout my [Resume](https://www.kariyer.net/ozgecmis/hakanyalitekincv).
 
 ### Languages and Tools:
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/> 
+[<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
@@ -40,8 +41,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=visualstudio&logoColor=%23F7DF1E"/>
-
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=visualstudio&logoColor=%23F7DF1E"/>](#)
+-
 📕 **Latest Medium Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Ngrok ile Localhost’u Dış Dünyaya Açmak](https://hakanyalitekin.medium.com/ngrok-ile-localhostu-d%C4%B1%C5%9F-d%C3%BCnyaya-a%C3%A7mak-b95601f99344?source=rss-c5995f0cd21------2)
@@ -55,7 +56,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 <details>
 	  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
-
+</details>
   <br />
   <table>
     <thead align="center">
@@ -70,17 +71,25 @@ I'm a passionate learner who's always willing to learn and work across technolog
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/hakanyalitekin/DependencyInjectionDemo"><b>🚀 DependencyInjection</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/hakanyalitekin/DependencyInjectionDemo?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/hakanyalitekin/DependencyInjectionDemo?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/hakanyalitekin/DependencyInjectionDemo?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hakanyalitekin/DependencyInjectionDemo?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hakanyalitekin/DependencyInjectionDemo?style=flat-square"/></td>
+	<td><a href="https://github.com/hakanyalitekin/CleanArchitecture"><b>🚀 CleanArchitecture</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/hakanyalitekin/CleanArchitecture?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/hakanyalitekin/CleanArchitecture?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/hakanyalitekin/CleanArchitecture?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hakanyalitekin/CleanArchitecture?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hakanyalitekin/CleanArchitecture?style=flat-square"/></td>
+      </tr>
+	<tr>
+	<td><a href="https://github.com/hakanyalitekin/SortingAlgorithms"><b>🚀 SortingAlgorithms</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/hakanyalitekin/SortingAlgorithms?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/hakanyalitekin/SortingAlgorithms?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/hakanyalitekin/SortingAlgorithms?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hakanyalitekin/SortingAlgorithms?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/hakanyalitekin/SortingAlgorithms?style=flat-square"/></td>
       </tr>
     </tbody>
   </table>
   <br />
-</details>
+
 
 
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=hakanyalitekin&show_icons=true&hide_border=true" />
